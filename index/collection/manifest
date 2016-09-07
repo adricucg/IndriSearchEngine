@@ -1,0 +1,16 @@
+<parameters>
+	<forward>
+		<field>docno</field>
+		<field>htmlpage</field>
+		<field>length</field>
+		<field>title</field>
+	</forward>
+	<reverse>
+		<field>docno</field>
+		<field>htmlpage</field>
+		<field>length</field>
+		<field>title</field>
+	</reverse>
+	<storeDocs>true</storeDocs>
+</parameters>
+

@@ -1,0 +1,11 @@
+<parameters>
+<index>/home/cloudera/IdeaProjects/SearchEngine/index</index>
+<memory>1G</memory>
+<corpus>
+      <path>/home/cloudera/IdeaProjects/SearchEngine/xmlthreads</path>
+      <class>xml</class>
+</corpus>
+<field><name>title</name></field>
+<field><name>initpost</name></field>
+<field><name>replypost</name></field>
+</parameters>

@@ -1,0 +1,6 @@
+<parameters>
+    <index>/home/cloudera/IdeaProjects/SearchEngine/index</index>
+    <memory>1G</memory>
+    <name>LENGTH</name>
+    <input>/home/cloudera/IdeaProjects/SearchEngine/xmlthreads/priors.txt</input>
+</parameters>
